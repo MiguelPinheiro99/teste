@@ -9,6 +9,8 @@ cursor = conexao.cursor()
 
 import random
 
+#pao com mortadela
+
 class Banco:
     
     def __init__(self):
